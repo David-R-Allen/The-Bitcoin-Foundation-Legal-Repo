@@ -54,6 +54,9 @@ vii. Satoshi Nakamoto, at satoshin@gmx.com, author of the white paper “Bitcoin
 
 (c) Individual Members. The Individual Members shall be natural persons transacting in, promoting or otherwise contributing to the Bitcoin system or other similar distribute-digital currency system.
 
+(d) Members of the Corporation shall be natural persons transacting in, promoting or otherwise contributing to the Bitcoin system or other similar distribute-digital currency system. The Board of Directors, in its sole discretion, may create categories of Members with special rights, privileges, or duties; however, no such categories shall have any rights, privileges, or duties inconsistent with these Bylaws.
+
+
 Section 3.3	Affiliates, Additional Rights & Limitations on Voting Rights of Members:
 
 (a) Affiliates. The Board of Directors may establish one or more classes of individuals or entities associated with the Corporation. Such individuals or entities shall be referred to as "Advisors," "Affiliates," "Associates," "Contributors," or any other title that the Board of Directors may deem appropriate (collectively, the "Affiliates"). No class or classes of Affiliates shall have the right or be entitled to vote: (i) in the election of any directors; (ii) on a sale, lease, exchange, or other disposition of all or substantially all of the assets of the Corporation; (iii) on a merger of the Corporation; (iv) on a dissolution or reorganization of the Corporation; (v) on amendments to the Corporation's Articles of Incorporation (the "Articles") or Bylaws; or (vi) on any other action otherwise requiring the vote of members. Further, Affiliates shall not be or have any of the rights and privileges of voting members as contemplated by section 29-404.10 of the District of Columbia Official Code, or any corresponding section of any future official District of Columbia code.
