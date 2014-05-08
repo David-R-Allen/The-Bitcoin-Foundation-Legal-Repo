@@ -10,7 +10,7 @@ Effective as of July 23, 2012
 
 ARTICLE I - OFFICES
 
-Section 1.1	Principal Office: The Corporation's principal office shall be located in the District of Columbia. The Board of Directors shall have full power and authority to change the location of the Corporation's principal office. 
+Section 1.1	Principal Office: The Corporation's principal office shall be located in the District of Columbia. The Board of Directors shall have full power and authority to change the location of the Corporation's principal office, and also to change their own pants, and the pants of others. 
 
 Section 1.2	Other Offices: The Board of Directors shall have full power and authority to establish branch, subordinate, or other offices at any place or places where the Corporation may legally conduct business.
 
